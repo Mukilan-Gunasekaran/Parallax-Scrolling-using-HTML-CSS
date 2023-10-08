@@ -1,0 +1,31 @@
+body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+    }
+
+    .section1 {
+      height: 100vh; /* 100% of the viewport height */
+      background-image: url('parallax-thumb.jpg');
+      color: hsl(0, 0%, 100%);
+      text-align: center;
+      padding: 100px;
+      box-sizing: border-box;
+      justify-content: flex-end;
+    }
+
+    .section2 {
+      height: 100vh;
+      background-image: url('parallax-thumb.jpg');
+      color: hsl(0, 14%, 95%);
+      text-align:center;
+      padding: 100px;
+      box-sizing: border-box;
+    }
+    .section3 {
+      height: 100vh;
+      background-image: url('parallax-thumb.jpg');
+      color: rgb(255, 255, 255);
+      text-align: center;
+      padding: 100px;
+      box-sizing: border-box;
+    }
